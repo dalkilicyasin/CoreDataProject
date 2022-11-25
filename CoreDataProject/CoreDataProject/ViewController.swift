@@ -16,10 +16,8 @@ class ViewController: UIViewController {
         print("yasi")
         print("yasin first commit")
         print("second commit")
-
         print("thirt commit")
         print("forth commit")
-
     }
 }
 
