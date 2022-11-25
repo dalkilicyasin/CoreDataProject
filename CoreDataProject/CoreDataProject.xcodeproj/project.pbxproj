@@ -106,12 +106,12 @@
 				D9264C7C2930AE1C00094979 /* AppDelegate.swift */,
 				D9264C7E2930AE1C00094979 /* SceneDelegate.swift */,
 				D9264C802930AE1C00094979 /* ViewController.swift */,
+				D9264CAF2930BB0D00094979 /* SecondViewController.swift */,
 				D9264C822930AE1C00094979 /* Main.storyboard */,
 				D9264C882930AE1D00094979 /* Assets.xcassets */,
 				D9264C8A2930AE1D00094979 /* LaunchScreen.storyboard */,
 				D9264C8D2930AE1D00094979 /* Info.plist */,
 				D9264C852930AE1C00094979 /* CoreDataProject.xcdatamodeld */,
-				D9264CAF2930BB0D00094979 /* SecondViewController.swift */,
 			);
 			path = CoreDataProject;
 			sourceTree = "<group>";
