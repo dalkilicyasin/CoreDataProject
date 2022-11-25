@@ -17,6 +17,7 @@
 		D9264C972930AE1E00094979 /* CoreDataProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9264C962930AE1E00094979 /* CoreDataProjectTests.swift */; };
 		D9264CA12930AE1E00094979 /* CoreDataProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9264CA02930AE1E00094979 /* CoreDataProjectUITests.swift */; };
 		D9264CA32930AE1E00094979 /* CoreDataProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9264CA22930AE1E00094979 /* CoreDataProjectUITestsLaunchTests.swift */; };
+		D9264CB02930BB0D00094979 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9264CAF2930BB0D00094979 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D9264C9C2930AE1E00094979 /* CoreDataProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9264CA02930AE1E00094979 /* CoreDataProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataProjectUITests.swift; sourceTree = "<group>"; };
 		D9264CA22930AE1E00094979 /* CoreDataProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D9264CAF2930BB0D00094979 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D9264C8A2930AE1D00094979 /* LaunchScreen.storyboard */,
 				D9264C8D2930AE1D00094979 /* Info.plist */,
 				D9264C852930AE1C00094979 /* CoreDataProject.xcdatamodeld */,
+				D9264CAF2930BB0D00094979 /* SecondViewController.swift */,
 			);
 			path = CoreDataProject;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				D9264C812930AE1C00094979 /* ViewController.swift in Sources */,
 				D9264C7D2930AE1C00094979 /* AppDelegate.swift in Sources */,
 				D9264C872930AE1C00094979 /* CoreDataProject.xcdatamodeld in Sources */,
+				D9264CB02930BB0D00094979 /* SecondViewController.swift in Sources */,
 				D9264C7F2930AE1C00094979 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
