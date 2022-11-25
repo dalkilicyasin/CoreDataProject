@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  CoreDataProject
 //
 //  Created by Yasin Dalkilic on 25.11.2022.
@@ -7,16 +7,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        print("yasin first commit")
-        print("second commit")
-        print("thirt commit")
-    }
 
+        // Do any additional setup after loading the view.
+        print("cherrypick test")
+    }
+    
 
 }
-
